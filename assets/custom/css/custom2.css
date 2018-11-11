@@ -1,0 +1,16 @@
+.thumbnail > .img-responsive{
+    max-height: 100px;
+    border: none;
+
+}
+
+footer{
+  background-color: #333333;
+  color: white;
+}
+
+th{
+	text-align: center;
+}
+
+
